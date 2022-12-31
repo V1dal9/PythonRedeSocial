@@ -1,0 +1,10 @@
+<style>table,th,td{border:1px solid blue; border-collapse:collapse;}</style>
+<script>alert(124);</script>
+<body>
+<table>
+<tr><th>Nome</th><th>Telefone</th><th>Email</th></tr>
+<tr><td>Ana vidal</td><td>Aveiro</td><td>21anos</td></tr>
+<tr><td>joao aleixo</td><td>Aveiro</td><td>20anos</td></tr>
+</table>
+</body>
+aaaa

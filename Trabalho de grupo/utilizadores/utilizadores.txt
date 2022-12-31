@@ -1,0 +1,4 @@
+nome; idade; cidade
+
+Ana vidal;21;Aveiro
+Diogo  Neto;20;Aveiro
